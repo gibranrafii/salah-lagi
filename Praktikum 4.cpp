@@ -15,5 +15,9 @@ int fungsiluas(int p, int l)
 
 int main()
 {
-
+    int panjang, lebar;
+    cout << "Masukkan Panjang: ";
+    cin >> panjang;
+    cout << "Masukkan Lebar: ";
+    cin >> lebar;
 }
